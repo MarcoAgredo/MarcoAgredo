@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcoAgredo
-- 👀 I’m interested in learn programming
+- 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on projects to reach experience and new programming skills
 - 📫 How to reach me @marcoagredo
